@@ -17,7 +17,7 @@ bash <(curl -s https://raw.githubusercontent.com/aetherzcode/Pterodactyl-Theme-A
 - Install Tema Enigma
 - Uninstall Tema
 
- (Kode Token : skyzodev)
+ (Kode Token : aetherzcode)
 
 ## System Support :
 

@@ -56,13 +56,13 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY AETHER            [+]${NC}"
+  echo -e "${BLUE}[+]               LICENSE AETHER            [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
   echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "skyzodev" ]; then
+  if [ "$USER_TOKEN" = "aetherzcode" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Token Salah! Beli Kode Token Di AETHER${NC}"
